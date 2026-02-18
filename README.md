@@ -1,60 +1,67 @@
-# Portafolio de Caleb Álvarez Reyes
+# Reto 01 – Página Web Personal tipo CV (HTML + CSS)
+Visión general
+En este reto vas a crear tu primera página web profesional:
+una landing page personal que funcione como CV online y tarjeta de presentación.
 
-![Portafolio Banner](https://via.placeholder.com/1200x300/0a092e/ffd700?text=Portafolio+de+Caleb+Álvarez+Reyes)  <!-- Reemplaza con tu banner si tienes -->
+### Imagina que esta página se la vas a enviar a:
 
-## Sobre Mí
-Profesional en Mercadotecnia Internacional con especialización en Ciencia de Datos, Análisis Predictivo e Inteligencia Artificial Aplicada para Banca y Finanzas. Con más de seis años de experiencia en el sector público, desarrollando estrategias de vinculación, programas de fortalecimiento juvenil y análisis de información institucional. Competente en el manejo de datos financieros mediante Python, R, SQL y Power BI, con habilidades en liderazgo, comunicación efectiva y optimización de reportes para la toma de decisiones estratégicas.
+Un reclutador que quiere saber quién eres.
+Un cliente potencial que quiere ver si vale la pena hablar contigo.
+Un mentor que decide si te invita a un proyecto real.
+Tu objetivo es que, al verla, la persona piense:
 
-- **Ubicación**: Cuernavaca, Morelos, México
-- **Teléfono**: +52 777 260 6630
-- **Email**: s.calbalvarez.87@gmail.com
-- **LinkedIn**: [caleb-alvarez-reyes](https://www.linkedin.com/in/caleb-alvarez-reyes/)
+“Ok, esta persona se toma las cosas en serio”.
 
-## Experiencia Profesional
-- **Subdirector de Vinculación y Fortalecimiento** – Instituto Morelense de las Personas Adolescentes y Jóvenes (IMPAJOVEN), mayo 2024 – presente
-  - Dirección de estrategias de vinculación interinstitucional orientadas al fortalecimiento juvenil.
-  - Implementación de proyectos de impacto social basados en análisis de datos y métricas de gestión.
+## Restricciones técnicas
+Para este reto solo puedes usar:
 
-- **Jefe del Departamento de Inclusión** – IMPAJOVEN, octubre 2018 – junio 2024
-  - Coordinación de programas estatales para la inclusión social de adolescentes y jóvenes.
-  - Análisis de datos sociales y elaboración de reportes estratégicos para toma de decisiones gubernamentales.
+Un archivo: index.html
+Un archivo: style.css
+Y nada más.
 
-- **Prácticas Profesionales – Recursos Humanos** – Coca-Cola FEMSA, 2017
-  - Apoyo en procesos de reclutamiento, capacitación y control de indicadores de personal.
-  - Gestión de bases de datos de personal y mejora de la eficiencia en procesos internos.
+Sin frameworks (no Bootstrap, no Tailwind).
+Sin JavaScript.
+Sin imágenes obligatorias (puedes añadirlas si quieres, pero no son requisito).
+La idea es demostrar que con HTML y CSS bien trabajados se puede lograr algo limpio y profesional.
 
-## Formación Académica
-- Especialización en Ciencia de Datos, Análisis Predictivo e Inteligencia Artificial Aplicada para Banca y Finanzas (Python, RStudio, SQL, Power BI, Machine Learning) – Centro de Investigación e Innovación, 2025 (en curso).
-- Certificación en Azure: Fundamentos para la Nube (Tecnologías Microsoft) – Certificación con Microsoft · INFOTEC, 2025 (en curso).
-- Fundamentos de Python – INFOTEC, 2025 (terminado satisfactoriamente, en espera del diploma).
-- Curso Fundamentos del Desarrollo de Software – INFOTEC, 2025 (terminado satisfactoriamente, en espera del diploma).
-- Licenciatura en Mercadotecnia Internacional – Universidad Abierta y a Distancia de México (UNADM), México, 2018.
-- Diplomado en Comercialización Internacional y Procesos Aduaneros – Asociación de Aduaneros en México, 2021.
-- Curso Creativo en Diseño Gráfico (Illustrator, Photoshop, CorelDRAW) – CETEC, Xalapa, 2025.
-- Estudios de Maestría en Ciencias Políticas (Inconclusos) – El Colegio de Morelos, Morelos.
+Requisitos de contenido (estructura del CV)
+Tu index.html debe incluir, como mínimo, estas secciones:
 
-## Habilidades Técnicas
-- Lenguajes y análisis de datos: Python, R, SQL.
-- Visualización: Power BI, Tableau.
-- Análisis predictivo: Modelos supervisados y no supervisados aplicados a banca y finanzas.
-- Diseño gráfico: Adobe Illustrator, Photoshop, CorelDRAW.
-- Comercialización y marketing internacional: Estrategias de exportación, procesos aduaneros.
+Header
 
-## Habilidades Blandas
-- Liderazgo
-- Pensamiento analítico
-- Comunicación efectiva
-- Adaptabilidad
-- Toma de decisiones estratégicas
+Tu nombre completo.
+Una frase corta que te defina (ejemplos:
+“Desarrollador backend en formación”,
+“Estudiante de ingeniería interesado en data y APIs”, etc.).
+Resumen / About me
 
-## Enlace al Sitio
-Visita mi portafolio en vivo: [https://tuusuario.github.io/mi-portafolio/](https://tuusuario.github.io/mi-portafolio/)
+1–2 párrafos claros donde expliques quién eres, qué te interesa y qué tipo de proyectos te gustaría hacer.
+Habilidades
 
-## Instalación y Ejecución Local
-1. Clona el repositorio: `git clone https://github.com/tuusuario/mi-portafolio.git`
-2. Abre `index.html` en tu navegador.
+Lista de habilidades técnicas y/o áreas de interés.
+Aunque aún estés aprendiendo, sé honesto y específico:
+“HTML y CSS básicos”
+“Interés en Python y FastAPI”
+“Ganas de aprender buenas prácticas de back-end y front-end”
+Experiencia / Proyectos
 
-## Licencia
-MIT License – Libre para usar y modificar.
+Pueden ser:
+Proyectos personales.
+Tareas escolares relevantes.
+Ideas de proyectos que quieras desarrollar.
+Lo importante es que se vea cómo piensas y qué te gustaría construir.
+Educación / Cursos
 
-© 2026 Caleb Álvarez Reyes
+Universidad, carrera, año (si aplica).
+Cursos relevantes (ej. “Semillero Zero2Hero 2025”, otros cursos online, etc.).
+Contacto
+
+Correo electrónico.
+Opcional: LinkedIn, GitHub, portafolio u otra red profesional.
+Requisitos de diseño (CSS)
+Tu style.css debe lograr que la página se vea ordenada, legible y profesional.
+
+## Mínimos indispensables:
+
+Enlace correcto desde el <head> de index.html:
+<link rel="stylesheet" href="style.css" />
